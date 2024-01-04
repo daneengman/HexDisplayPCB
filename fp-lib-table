@@ -4,4 +4,5 @@
   (lib (name "TCA8418")(type "KiCad")(uri "${KIPRJMOD}/TCA8418.pretty")(options "")(descr ""))
   (lib (name "PiPico")(type "KiCad")(uri "${KIPRJMOD}/PiPico.pretty")(options "")(descr ""))
   (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RPi_Pico.pretty")(options "")(descr ""))
+  (lib (name "Mounting")(type "KiCad")(uri "${KIPRJMOD}/Mounting.pretty")(options "")(descr ""))
 )
