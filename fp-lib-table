@@ -5,4 +5,5 @@
   (lib (name "PiPico")(type "KiCad")(uri "${KIPRJMOD}/PiPico.pretty")(options "")(descr ""))
   (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RPi_Pico.pretty")(options "")(descr ""))
   (lib (name "Mounting")(type "KiCad")(uri "${KIPRJMOD}/Mounting.pretty")(options "")(descr ""))
+  (lib (name "Feesh")(type "KiCad")(uri "${KIPRJMOD}/Feesh.pretty")(options "")(descr ""))
 )
